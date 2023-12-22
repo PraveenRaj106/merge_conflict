@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modified demo3 in master
+=======
+modified demo3 in first
+>>>>>>> first
